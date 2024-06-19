@@ -158,11 +158,11 @@ footer i{
    
     
 }
-.main_image2-pagination {
+/* .main_image2-pagination {
     display: flex;
     justify-content: center;
     align-items: center;
-}
+} */
 .main_image2-pagination a{
    
 color: white;
@@ -309,5 +309,10 @@ display:flex;
 .main_image3-text{
     text-align: center;
 }
-
+.footer_middle{
+    flex-direction: column;
+}
+.footer_middle-aboutcodavatar{
+    text-align: center;
+}
 }
